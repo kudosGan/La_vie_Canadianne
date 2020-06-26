@@ -1,8 +1,8 @@
  [
   {
-    id: 0,
-    country: "Cambodia",
-    imageUrl:
+    "id": 0,
+   " country": "Cambodia",
+    "imageUrl":
       "https://kudosgan.github.io/La_vie_Canadianne/image/Flags/flag-of-Cambodia.png"
   },
   {
